@@ -1,2 +1,6 @@
 
 /* Your CSS Code here. */
+table, td, tr {
+            align-items: center;
+            justify-content: center;
+        }
